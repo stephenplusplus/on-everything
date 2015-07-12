@@ -1,6 +1,6 @@
 {
   "name": "on-everything",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Catch every event an EventEmitter publishes",
   "main": "index.js",
   "scripts": {
