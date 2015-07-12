@@ -1,0 +1,30 @@
+{
+  "name": "on-everything",
+  "version": "0.0.0",
+  "description": "Catch every event an EventEmitter publishes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout 5000"
+  },
+  "files": [
+    "index.js",
+    "license"
+  ],
+  "keywords": [
+    "stream",
+    "event",
+    "eventemitter",
+    "handler",
+    "wildcard",
+    "catchall"
+  ],
+  "author": "Stephen Sawchuk <sawchuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stubs": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "request": "^2.58.0"
+  }
+}
